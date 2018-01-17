@@ -1,0 +1,48 @@
+body{
+    font-family: "Hind";
+}
+.manis{
+    padding: 0;
+}
+.dora{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+.dora li{
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+.po{
+    margin-top: 150px;
+}
+.apa{
+    margin-top: 80px;
+}
+.siapa{
+    margin-top: 15px;
+}
+.mrg {
+    margin-top: 100px;
+}
+.coding {
+    clear: left;
+}
+.mengapa{
+    margin-top: 120px
+}
+.keapa{
+    margin-top: 60px;
+}
+.re{
+    margin-top: 100px;
+}
+.ra{
+    margin-top: 40px;
+}
+
+.hmm {
+    padding: 0;
+}
